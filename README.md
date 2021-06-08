@@ -1,1 +1,2 @@
-# Simple solution for mars rover problem
+# Mars Rover
+Simple solution for mars rover problem
