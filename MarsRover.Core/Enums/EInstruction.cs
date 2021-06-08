@@ -2,8 +2,8 @@ namespace MarsRover.Core.Enums
 {
     public enum EInstruction
     {
-        R,
-        L,
-        M
+        Right = 'R',
+        Left = 'L',
+        Move = 'M' 
     }
 }
